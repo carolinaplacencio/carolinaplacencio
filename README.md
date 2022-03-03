@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images2.imgbox.com/c4/93/1UbWkzVg_o.png" alt="profile-carolina" height="150" align="left"> 
+  <img src="https://images2.imgbox.com/c4/93/1UbWkzVg_o.png" alt="profile-carolina" height="150" align="right"> 
   <br/>
   <h1> Welcome to my programming space </h1>
 </div>
